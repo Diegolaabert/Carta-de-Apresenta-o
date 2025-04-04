@@ -21,7 +21,7 @@ Me chamo Diego, nascido em setembro/1993 e estou iniciando no mundo da programa√
 
 <h3>Me conhe√ßa melhor!</h3>
 <img
-src="[C:\Users\jayma\OneDrive\Imagens\Diego_Menezes.jpg](https://scontent.fsdu36-1.fna.fbcdn.net/v/t39.30808-6/323222239_891484635363265_6222284764272309518_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=stdVP-flIqMQ7kNvwFf0hzF&_nc_oc=AdkdxLEvAQI6Gq0fkh2teS0H3xbP3Qyg4uYQa_mtBQUrlXc9hBnE3-qvCJo43W06avoQtXY4YaBZXqT_2kmxycIq&_nc_zt=23&_nc_ht=scontent.fsdu36-1.fna&_nc_gid=rbeMBqej24e7m2_Fg3tyOw&oh=00_AYEXsMI2g8MO2QKcxhbltrGyZC6vQUwNL4eliqEKbmJhgQ&oe=67F4FD5B)"
+src="https://scontent.fsdu36-1.fna.fbcdn.net/v/t39.30808-6/323222239_891484635363265_6222284764272309518_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=stdVP-flIqMQ7kNvwFf0hzF&_nc_oc=AdkdxLEvAQI6Gq0fkh2teS0H3xbP3Qyg4uYQa_mtBQUrlXc9hBnE3-qvCJo43W06avoQtXY4YaBZXqT_2kmxycIq&_nc_zt=23&_nc_ht=scontent.fsdu36-1.fna&_nc_gid=rbeMBqej24e7m2_Fg3tyOw&oh=00_AYEXsMI2g8MO2QKcxhbltrGyZC6vQUwNL4eliqEKbmJhgQ&oe=67F4FD5B"
 alt="Aqui deveria estar aparecendo uma foto minha."
 width="500"
 height="600">
